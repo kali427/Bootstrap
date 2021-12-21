@@ -1,0 +1,13 @@
+/* .crsl-cntnt{
+    background-color: rgba(0, 0, 0, 0.419);
+    border-radius: 30px;
+} */
+
+.lef8{
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+.ri8{
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+}
